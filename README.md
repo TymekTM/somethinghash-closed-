@@ -1,10 +1,10 @@
 # somethinghash
-# closed acces
+# closed access
 
-At this moment, this is beta realease, it's suposed to be used for close use,
+At this moment, this is beta release, it's supposed to be used for closed use,
 but if you want, feel free to download.
 
 ## It's TESTING Version
-Even thoght it probably wont damage your computer, nothing is shure.
-Our app SHOULD not be in it self able to cause damage!
+Even though it probably won't damage your computer, we cannot guarantee anything.
+Our app SHOULD not be in itself able to cause damage!
 
